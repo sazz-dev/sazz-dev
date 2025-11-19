@@ -1,7 +1,6 @@
 ## 👋 Hi, **Sazz** here
 
-A passionate **MERN Stack (React) Developer** and **UI/UX Designer** crafting intuitive digital experiences and modern web applications.  
-I love transforming ideas into meaningful, scalable products with design thinking and clean development practices.
+A passionate **MERN Stack (React) Developer** and **UI/UX Designer** crafting intuitive digital experiences and modern <br> web applications. I love transforming ideas into meaningful, scalable products with design thinking and clean development practices.
 
 ---
 
