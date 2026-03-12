@@ -3,20 +3,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=220&section=header&text=Sazz&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sazz</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h1 align="center">Hey! 👋, I'm Sazz</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 ---
 
 ## 👨‍💻 About Me
-I’m a passionate **MERN Stack (React) Developer** and **UI/UX Designer** crafting intuitive digital experiences and modern web applications.  
+I’m a passionate **Full Stack Developer** and **UI/UX Designer** crafting intuitive digital experiences and modern web applications.  
 I love transforming ideas into meaningful, scalable products using design thinking and clean development practices.
 
 ---
 
 ## 🚀 Current Activities
 - 🌱 Exploring **Next.js**
-- 🏗️ Working on a **Tourism Website**
 - 🎨 Enhancing **UI/UX workflows & design systems**
 - ⚡ Building scalable, high-performance web apps
 
@@ -24,7 +23,7 @@ I love transforming ideas into meaningful, scalable products using design thinki
 
 ## 🧩 What I Do
 
-### 💻 MERN Stack Development
+### 💻 Development
 - Dynamic & scalable web applications  
 - Clean, reusable component architecture  
 - REST API integrations  
@@ -44,7 +43,7 @@ I love transforming ideas into meaningful, scalable products using design thinki
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nextjs" />
 </p>
 
 ### ⚙️ Backend & Database
